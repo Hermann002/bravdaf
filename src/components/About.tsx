@@ -5,7 +5,7 @@ const pillars = [
   {
     icon: Compass,
     title: "Mission",
-    text: "Concevoir des solutions technologiques innovantes adaptées aux besoins des particuliers et des entreprises, tout en valorisant les produits Made by Africans.",
+    text: "Une plate-forme numérique qui apporte des solutions aux consommateurs et donne de la visibilité au produits made by Africans",
   },
   {
     icon: Globe2,

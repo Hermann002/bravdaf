@@ -5,7 +5,7 @@ const pillars = [
   {
     icon: Compass,
     title: "Mission",
-    text: "Une plate-forme numérique qui apporte des solutions aux consommateurs et donne de la visibilité au produits made by Africans",
+    text: "BravdAf Inc a pour mission de concevoir, développer, transformer, commercialiser et distribuer des produits et services à valeur ajoutée, tout en accompagnant les organisations dans leurs projets de gestion, de transformation et de développement d'affaires",
   },
   {
     icon: Globe2,
@@ -60,10 +60,10 @@ const About = () => {
               height={960}
               className="relative rounded-3xl shadow-warm w-full object-cover aspect-[4/3]"
             />
-            <div className="absolute -bottom-6 -left-6 bg-card border border-border rounded-2xl p-5 shadow-card max-w-[220px]">
+            {/* <div className="absolute -bottom-6 -left-6 bg-card border border-border rounded-2xl p-5 shadow-card max-w-[220px]">
               <div className="font-display text-2xl font-bold text-primary">+7 ans</div>
               <div className="text-sm text-muted-foreground mt-1">d'expérience en administration, marketing et service client</div>
-            </div>
+              </div> */}
           </div>
         </div>
       </div>

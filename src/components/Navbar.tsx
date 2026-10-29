@@ -33,7 +33,7 @@ const Navbar = () => {
     >
       <nav className="container flex items-center justify-between h-16 md:h-20">
         <a href="#accueil" className="flex items-center gap-2 group">
-          <img className="h-15 w-auto" src={LogoImage} alt="logo" />
+          <img className="h-15 w-17" src={LogoImage} alt="logo" />
           {/* <span className="grid place-items-center w-9 h-9 rounded-lg gradient-warm text-primary-foreground font-display font-bold shadow-warm">
             B
           </span>

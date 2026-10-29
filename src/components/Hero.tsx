@@ -33,7 +33,7 @@ const Hero = () => {
           </p>
 
           <p className="mt-6 text-lg md:text-xl text-primary-foreground/85 max-w-2xl leading-relaxed">
-            Les Braves d'Afrique (BravdAf) conçoit des solutions numériques innovantes
+            Les Braves d'Affaires (BravdAf) conçoit des solutions numériques innovantes
             et valorise les talents et produits africains à l'échelle internationale.
           </p>
 

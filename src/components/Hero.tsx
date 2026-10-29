@@ -17,17 +17,20 @@ const Hero = () => {
 
       <div className="container relative z-10 py-20 md:py-32">
         <div className="max-w-3xl animate-fade-up">
-          <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/15 border border-accent/30 text-accent text-sm font-medium backdrop-blur-sm">
+          {/* <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/15 border border-accent/30 text-accent text-sm font-medium backdrop-blur-sm">
             <Sparkles className="w-3.5 h-3.5" />
             Made by Africans · Built for the World
-          </span>
+          </span> */}
 
           <h1 className="mt-6 text-5xl md:text-7xl font-display font-bold text-primary-foreground text-balance leading-[1.05]">
-            Connecter l'Afrique
+            L’audace de bâtir
             <span className="block bg-gradient-to-r from-accent to-primary-glow bg-clip-text text-transparent">
-              au monde.
+              l'avenir.
             </span>
           </h1>
+          <p className="devise mt-6 text-lg md:text-xl text-primary-foreground/85 max-w-2xl leading-relaxed">
+            Innovation • Stratégie • Croissance
+          </p>
 
           <p className="mt-6 text-lg md:text-xl text-primary-foreground/85 max-w-2xl leading-relaxed">
             Les Braves d'Afrique (BravdAf) conçoit des solutions numériques innovantes
